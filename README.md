@@ -1,1 +1,2 @@
 # cellular-migration
+ I am currently working on a project to create a unified theoretical framework for cell migration, I have developed a cell migration simulator on the motor clutch model based on the Kinetic Monte Carlo method. The model predicts stiffness optimum that can be shifted by alternating the number of active molecular motors and clutches and my rest of the project also involved studies of undesired outcomes such as cancer metastasis, osteoporosis, and chronic inflammatory diseases due to the failure of normal cell migration. 
